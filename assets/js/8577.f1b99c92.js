@@ -1,0 +1,1 @@
+(self.webpackChunkours=self.webpackChunkours||[]).push([[8577],{549:(s,u,e)=>{"use strict";e.d(u,{A:()=>k});var c=e(8291);const k=c},5741:()=>{}}]);
